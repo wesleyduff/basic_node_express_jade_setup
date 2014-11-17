@@ -67,7 +67,7 @@ Your result should look similar to:
           "Node",
           "Express"
       ],
-      "author": "Wesley Duff",
+      "author": "Your name",
       "license": "MIT"
     }
     
@@ -112,7 +112,7 @@ Our package.json file will get updated and should now have the dependencies show
         "Node",
         "Express"
       ],
-      "author": "Wesley Duff",
+      "author": "Your Name",
       "license": "MIT",
       "dependencies": {
         "body-parser": "^1.9.2",
